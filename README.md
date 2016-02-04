@@ -1,2 +1,2 @@
 # mbtech
-mb tech website
+mbtech.io website
